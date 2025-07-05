@@ -26,7 +26,7 @@ This repository contains two hands-on Jupyter notebooks for learning PyTorch fro
 
 You can watch the full Persian video tutorials here: [Link to Videos](https://iutbox.iut.ac.ir/index.php/s/drGPFPinLNeb7rb)
 
-## 💻 Usage
+##  Usage
 
 Simply open these notebooks directly in Google Colab and run them.  
 Make sure to enable **GPU acceleration** in Colab by going to `Change runtime type` > `T4 GPU`.  
